@@ -12,7 +12,7 @@ def get_ip():
     return ip_address
 
 # Dirección IP y puerto del servidor
-server_ip = '127.0.0.1'  # Cambiar por la IP del servidor
+server_ip = '10.161.47.238'  # Cambiar por la IP del servidor
 server_port = 4455  # Cambiar por el puerto del servidor
 
 # Crear un socket UDP

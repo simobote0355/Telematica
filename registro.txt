@@ -54,3 +54,14 @@ Fecha y hora: 2024-04-17 22:47:38, IP_Cliente: 172.16.16.101, Solicitud: www.fac
 Fecha y hora: 2024-04-17 22:47:48, IP_Cliente: 172.16.16.101, Solicitud: 104.244.42.129, Respuesta: 104.244.42.129
 
 Fecha y hora: 2024-04-17 22:50:55, IP_Cliente: 172.16.16.101, Solicitud: 104.244.42.129, Respuesta: www.facebook.com
+Fecha y hora: 2024-04-18 09:23:54, IP_Cliente: 10.161.62.254, Solicitud: www.avianca.com, Respuesta: 204.74.99.103
+Fecha y hora: 2024-04-18 09:24:09, IP_Cliente: 10.161.62.254, Solicitud: 204.74.99.103, Respuesta: www.avianca.com
+Fecha y hora: 2024-04-18 09:25:54, IP_Cliente: 10.161.62.254, Solicitud: 204.74.99.103, Respuesta: 
+Fecha y hora: 2024-04-18 09:26:06, IP_Cliente: 10.161.62.254, Solicitud: www.avianca.com, Respuesta: 204.74.99.103
+
+Fecha y hora: 2024-04-18 09:27:40, IP_Cliente: 10.161.62.254, Solicitud: www.avianca.com, Respuesta: www.avianca.com
+Fecha y hora: 2024-04-18 09:27:56, IP_Cliente: 10.161.62.254, Solicitud: www.avianca.com, Respuesta: www.avianca.com
+Fecha y hora: 2024-04-18 09:28:17, IP_Cliente: 10.161.62.254, Solicitud: 204.74.99.103, Respuesta: www.facebook.com
+Fecha y hora: 2024-04-18 09:28:54, IP_Cliente: 10.161.62.254, Solicitud: 204.74.99.103, Respuesta: 
+Fecha y hora: 2024-04-18 09:28:58, IP_Cliente: 10.161.62.254, Solicitud: www.avianca.com, Respuesta: 204.74.99.103
+
