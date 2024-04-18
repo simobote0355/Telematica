@@ -65,3 +65,114 @@ Fecha y hora: 2024-04-18 09:28:17, IP_Cliente: 10.161.62.254, Solicitud: 204.74.
 Fecha y hora: 2024-04-18 09:28:54, IP_Cliente: 10.161.62.254, Solicitud: 204.74.99.103, Respuesta: 
 Fecha y hora: 2024-04-18 09:28:58, IP_Cliente: 10.161.62.254, Solicitud: www.avianca.com, Respuesta: 204.74.99.103
 
+Fecha y hora: 2024-04-18 09:35:05, IP_Cliente: 10.161.62.254, Solicitud: www.avianca.com, Respuesta: 204.74.99.103
+
+Fecha y hora: 2024-04-18 09:35:14, IP_Cliente: 10.161.62.254, Solicitud: 204.74.99.103, Respuesta: 204.74.99.103
+
+Fecha y hora: 2024-04-18 09:36:31, IP_Cliente: 10.161.62.254, Solicitud: 204.74.99.103, Respuesta: 
+Fecha y hora: 2024-04-18 09:45:19, IP_Cliente: 10.161.62.254, Solicitud: 204.74.99.103, Respuesta: www.avianca.com
+Fecha y hora: 2024-04-18 10:01:07, IP_Cliente: 10.161.62.254, Solicitud: www.avianca.com, Respuesta: 204.74.99.103
+
+Fecha y hora: 2024-04-18 10:01:20, IP_Cliente: 10.161.62.254, Solicitud: 204.74.99.103, Respuesta: 204.74.99.103
+
+Fecha y hora: 2024-04-18 10:02:46, IP_Cliente: 10.161.62.254, Solicitud: 204.74.99.103, Respuesta: 
+Fecha y hora: 2024-04-18 10:05:54, IP_Cliente: 10.161.62.254, Solicitud: 204.74.99.103, Respuesta: 
+Fecha y hora: 2024-04-18 10:06:44, IP_Cliente: 10.161.62.254, Solicitud: 204.74.99.103, Respuesta: 
+Fecha y hora: 2024-04-18 10:08:37, IP_Cliente: 10.161.62.254, Solicitud: 204.74.99.103, Respuesta: 
+Fecha y hora: 2024-04-18 10:09:14, IP_Cliente: 10.161.62.254, Solicitud: 204.74.99.103, Respuesta: 
+Fecha y hora: 2024-04-18 10:09:22, IP_Cliente: 10.161.62.254, Solicitud: www.avianca.com, Respuesta: 204.74.99.103;
+
+Fecha y hora: 2024-04-18 10:10:08, IP_Cliente: 10.161.62.254, Solicitud: 104.244.42.129, Respuesta: 204.74.99.103;
+
+Fecha y hora: 2024-04-18 10:10:19, IP_Cliente: 10.161.62.254, Solicitud: www.facebook.com, Respuesta: 104.244.42.129;
+Fecha y hora: 2024-04-18 10:10:24, IP_Cliente: 10.161.62.254, Solicitud: 104.244.42.129, Respuesta: 104.244.42.129;
+Fecha y hora: 2024-04-18 10:12:05, IP_Cliente: 10.161.62.254, Solicitud: 104.244.42.129, Respuesta: 
+Fecha y hora: 2024-04-18 10:12:24, IP_Cliente: 10.161.62.254, Solicitud: www.avianca.com, Respuesta: 204.74.99.103;
+
+Fecha y hora: 2024-04-18 10:13:03, IP_Cliente: 10.161.62.254, Solicitud: www.avianca.com, Respuesta: 104.244.42.129;
+Fecha y hora: 2024-04-18 10:13:12, IP_Cliente: 10.161.62.254, Solicitud: 204.74.99.103, Respuesta: www.avianca.com
+Fecha y hora: 2024-04-18 10:13:24, IP_Cliente: 10.161.62.254, Solicitud: 204.74.99.103, Respuesta: www.avianca.com
+Fecha y hora: 2024-04-18 10:13:35, IP_Cliente: 10.161.62.254, Solicitud: www.avianca.com, Respuesta: 104.244.42.129;
+Fecha y hora: 2024-04-18 10:13:43, IP_Cliente: 10.161.62.254, Solicitud: www.facebook.com, Respuesta: 204.74.99.103;
+
+Fecha y hora: 2024-04-18 10:13:56, IP_Cliente: 10.161.62.254, Solicitud: 104.244.42.129, Respuesta: www.facebook.com
+Fecha y hora: 2024-04-18 10:14:06, IP_Cliente: 10.161.62.254, Solicitud: 204.74.99.103, Respuesta: www.avianca.com
+Fecha y hora: 2024-04-18 10:14:13, IP_Cliente: 10.161.62.254, Solicitud: 104.244.42.129, Respuesta: www.facebook.com
+Fecha y hora: 2024-04-18 10:14:21, IP_Cliente: 10.161.62.254, Solicitud: www.facebook.com, Respuesta: 204.74.99.103;
+
+Fecha y hora: 2024-04-18 10:14:27, IP_Cliente: 10.161.62.254, Solicitud: www.avianca.com, Respuesta: 104.244.42.129;
+Fecha y hora: 2024-04-18 10:14:44, IP_Cliente: 10.161.62.254, Solicitud: www.avianca.com, Respuesta: 104.244.42.129;
+Fecha y hora: 2024-04-18 10:15:05, IP_Cliente: 10.161.62.254, Solicitud: www.facebook.com, Respuesta: 204.74.99.103;
+
+Fecha y hora: 2024-04-18 10:16:48, IP_Cliente: 10.161.62.254, Solicitud: www.avianca.com, Respuesta: www.avianca.com
+Fecha y hora: 2024-04-18 10:17:01, IP_Cliente: 10.161.62.254, Solicitud: 204.74.99.103, Respuesta: www.avianca.com
+Fecha y hora: 2024-04-18 10:18:57, IP_Cliente: 10.161.62.254, Solicitud: www.avianca.com, Respuesta: 104.244.42.129
+Fecha y hora: 2024-04-18 10:19:05, IP_Cliente: 10.161.62.254, Solicitud: 204.74.99.103, Respuesta: www.avianca.com
+Fecha y hora: 2024-04-18 10:19:43, IP_Cliente: 10.161.62.254, Solicitud: 204.74.99.103, Respuesta: www.avianca.com
+Fecha y hora: 2024-04-18 10:19:49, IP_Cliente: 10.161.62.254, Solicitud: www.avianca.com, Respuesta: 204.74.99.103
+
+Fecha y hora: 2024-04-18 10:20:03, IP_Cliente: 10.161.62.254, Solicitud: www.facebook.com, Respuesta: 204.74.99.103
+
+Fecha y hora: 2024-04-18 10:20:20, IP_Cliente: 10.161.62.254, Solicitud: 104.244.42.129, Respuesta: www.facebook.com
+Fecha y hora: 2024-04-18 10:20:26, IP_Cliente: 10.161.62.254, Solicitud: www.facebook.com, Respuesta: 204.74.99.103
+
+Fecha y hora: 2024-04-18 10:20:58, IP_Cliente: 10.161.62.254, Solicitud: www.avianca.com, Respuesta: 204.74.99.103
+
+Fecha y hora: 2024-04-18 10:21:12, IP_Cliente: 10.161.62.254, Solicitud: www.facebook.com, Respuesta: 204.74.99.103
+
+Fecha y hora: 2024-04-18 10:21:43, IP_Cliente: 10.161.62.254, Solicitud: www.facebook.com, Respuesta: www.avianca.com
+Fecha y hora: 2024-04-18 10:21:50, IP_Cliente: 10.161.62.254, Solicitud: www.avianca.com, Respuesta: www.avianca.com
+Fecha y hora: 2024-04-18 10:22:24, IP_Cliente: 10.161.62.254, Solicitud: www.avianca.com, Respuesta: www.avianca.com
+Fecha y hora: 2024-04-18 10:22:38, IP_Cliente: 10.161.62.254, Solicitud: 104.244.42.129, Respuesta: 104.244.42.129
+Fecha y hora: 2024-04-18 10:22:46, IP_Cliente: 10.161.62.254, Solicitud: www.facebook.com, Respuesta: www.avianca.com
+Fecha y hora: 2024-04-18 10:23:07, IP_Cliente: 10.161.62.254, Solicitud: www.facebook.com, Respuesta: 
+Fecha y hora: 2024-04-18 10:23:16, IP_Cliente: 10.161.62.254, Solicitud: 204.74.99.103, Respuesta: 
+Fecha y hora: 2024-04-18 10:23:26, IP_Cliente: 10.161.62.254, Solicitud: 104.244.42.129, Respuesta: www.avianca.com
+Fecha y hora: 2024-04-18 10:23:59, IP_Cliente: 10.161.62.254, Solicitud: 104.244.42.129, Respuesta: +www.facebook.com
+Fecha y hora: 2024-04-18 10:24:05, IP_Cliente: 10.161.62.254, Solicitud: www.avianca.com, Respuesta: 204.74.99.103
+
+Fecha y hora: 2024-04-18 10:24:14, IP_Cliente: 10.161.62.254, Solicitud: www.facebook.com, Respuesta: 204.74.99.103
+
+Fecha y hora: 2024-04-18 10:24:20, IP_Cliente: 10.161.62.254, Solicitud: 104.244.42.129, Respuesta: +www.facebook.com
+Fecha y hora: 2024-04-18 10:24:26, IP_Cliente: 10.161.62.254, Solicitud: 204.74.99.103, Respuesta: +www.facebook.com
+Fecha y hora: 2024-04-18 10:24:37, IP_Cliente: 10.161.62.254, Solicitud: 104.244.42.129, Respuesta: +www.facebook.com
+Fecha y hora: 2024-04-18 10:24:49, IP_Cliente: 10.161.62.254, Solicitud: www.facebook.com, Respuesta: +www.facebook.com
+Fecha y hora: 2024-04-18 10:24:56, IP_Cliente: 10.161.62.254, Solicitud: www.avianca.com, Respuesta: 204.74.99.103
+
+Fecha y hora: 2024-04-18 10:25:04, IP_Cliente: 10.161.62.254, Solicitud: 204.74.99.103, Respuesta: 204.74.99.103
+
+Fecha y hora: 2024-04-18 10:25:33, IP_Cliente: 10.161.62.254, Solicitud: 204.74.99.103, Respuesta: www.avianca.com
+Fecha y hora: 2024-04-18 10:25:39, IP_Cliente: 10.161.62.254, Solicitud: www.avianca.com, Respuesta: 204.74.99.103
+Fecha y hora: 2024-04-18 10:25:56, IP_Cliente: 10.161.62.254, Solicitud: www.facebook.com, Respuesta: No se encontró la IP o dominio en la tabla
+Fecha y hora: 2024-04-18 10:26:08, IP_Cliente: 10.161.62.254, Solicitud: www.facebook.com, Respuesta: No se encontró la IP o dominio en la tabla
+Fecha y hora: 2024-04-18 10:26:34, IP_Cliente: 10.161.62.254, Solicitud: www.facebook.com, Respuesta: 104.244.42.129
+Fecha y hora: 2024-04-18 10:26:43, IP_Cliente: 10.161.62.254, Solicitud: 104.244.42.129, Respuesta: www.facebook.com
+Fecha y hora: 2024-04-18 10:28:33, IP_Cliente: 10.161.62.254, Solicitud: www.dominos.com, Respuesta: 23.195.33.220
+Fecha y hora: 2024-04-18 10:28:45, IP_Cliente: 10.161.62.254, Solicitud: 142.1251.33.78, Respuesta: No se encontró la IP o dominio en la tabla
+Fecha y hora: 2024-04-18 10:28:57, IP_Cliente: 10.161.62.254, Solicitud: 142.251.33.78, Respuesta: No se encontró la IP o dominio en la tabla
+Fecha y hora: 2024-04-18 10:29:11, IP_Cliente: 10.161.62.254, Solicitud: 142.251.33.78, Respuesta: No se encontró la IP o dominio en la tabla
+Fecha y hora: 2024-04-18 10:29:21, IP_Cliente: 10.161.62.254, Solicitud: 142.251.33.78, Respuesta: www.youtube.com
+Fecha y hora: 2024-04-18 10:33:43, IP_Cliente: 10.161.62.254, Solicitud: 142.251.33.78, Respuesta: www.youtube.com
+Fecha y hora: 2024-04-18 10:33:53, IP_Cliente: 10.161.62.254, Solicitud: www.dominos.com, Respuesta: 142.251.33.78
+Fecha y hora: 2024-04-18 10:35:18, IP_Cliente: 10.161.62.254, Solicitud: 104.244.42.129, Respuesta: www.facebook.com
+Fecha y hora: 2024-04-18 10:35:28, IP_Cliente: 10.161.62.254, Solicitud: www.facebook.com, Respuesta: 204.74.99.103
+Fecha y hora: 2024-04-18 10:35:45, IP_Cliente: 10.161.62.254, Solicitud: www.youtube.com, Respuesta: 104.244.42.129
+Fecha y hora: 2024-04-18 10:38:56, IP_Cliente: 10.161.62.254, Solicitud: www.youtube.com, Respuesta: 104.244.42.129
+Fecha y hora: 2024-04-18 10:39:04, IP_Cliente: 10.161.62.254, Solicitud: 104.244.42.129, Respuesta: www.facebook.com
+Fecha y hora: 2024-04-18 10:39:41, IP_Cliente: 10.161.62.254, Solicitud: 104.244.42.129, Respuesta: www.facebook.com
+Fecha y hora: 2024-04-18 10:39:47, IP_Cliente: 10.161.62.254, Solicitud: www.dominos.com, Respuesta: 142.251.33.78
+Fecha y hora: 2024-04-18 10:40:28, IP_Cliente: 10.161.62.254, Solicitud: www.dominos.com, Respuesta: 142.251.33.78
+Fecha y hora: 2024-04-18 10:40:36, IP_Cliente: 10.161.62.254, Solicitud: 142.251.33.78, Respuesta: www.youtube.com
+Fecha y hora: 2024-04-18 10:41:12, IP_Cliente: 10.161.62.254, Solicitud: 142.251.33.78, Respuesta: www.youtube.com
+Fecha y hora: 2024-04-18 10:41:18, IP_Cliente: 10.161.62.254, Solicitud: www.dominos.com, Respuesta: 142.251.33.78
+Fecha y hora: 2024-04-18 10:42:21, IP_Cliente: 10.161.62.254, Solicitud: www.dominos.com, Respuesta: 142.251.33.78
+Fecha y hora: 2024-04-18 10:42:31, IP_Cliente: 10.161.62.254, Solicitud: 104.244.42.129, Respuesta: www.facebook.com
+Fecha y hora: 2024-04-18 10:53:07, IP_Cliente: 10.161.62.254, Solicitud: 104.244.42.129, Respuesta: www.facebook.com
+Fecha y hora: 2024-04-18 10:53:12, IP_Cliente: 10.161.62.254, Solicitud: www.facebook.com, Respuesta: 204.74.99.103
+Fecha y hora: 2024-04-18 10:53:51, IP_Cliente: 10.161.62.254, Solicitud: www.facebook.com, Respuesta: 104.244.42.129
+Fecha y hora: 2024-04-18 10:54:01, IP_Cliente: 10.161.62.254, Solicitud: 104.244.42.129, Respuesta: www.avianca.com
+Fecha y hora: 2024-04-18 10:54:40, IP_Cliente: 10.161.62.254, Solicitud: 104.244.42.129, Respuesta: www.facebook.com
+Fecha y hora: 2024-04-18 10:54:54, IP_Cliente: 10.161.62.254, Solicitud: www.facebook.com, Respuesta: www.avianca.com
+Fecha y hora: 2024-04-18 10:56:16, IP_Cliente: 10.161.62.254, Solicitud: www.facebook.com, Respuesta: 104.244.42.129
+Fecha y hora: 2024-04-18 10:56:24, IP_Cliente: 10.161.62.254, Solicitud: www.avianca.com, Respuesta: 204.74.99.103
+Fecha y hora: 2024-04-18 10:56:30, IP_Cliente: 10.161.62.254, Solicitud: 104.244.42.129, Respuesta: www.facebook.com

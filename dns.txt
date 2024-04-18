@@ -1,2 +1,4 @@
 www.avianca.com,204.74.99.103
 www.facebook.com,104.244.42.129
+www.youtube.com,142.251.33.78
+www.dominos.com,23.195.33.220

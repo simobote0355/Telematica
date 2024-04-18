@@ -3,7 +3,7 @@ import webbrowser
 import datetime
 
 def search(url):
-    print(url)
+    
     webbrowser.open("https://" + url)
 
 def get_ip():
