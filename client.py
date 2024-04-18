@@ -3,7 +3,7 @@ import webbrowser
 import datetime
 
 def search(url):
-    
+
     webbrowser.open("https://" + url)
 
 def get_ip():
@@ -13,7 +13,7 @@ def get_ip():
 
 # Dirección IP y puerto del servidor
 server_ip = '10.161.47.238'  # Cambiar por la IP del servidor
-server_port = 4455  # Cambiar por el puerto del servidor
+server_port = 53  # Cambiar por el puerto del servidor
 
 # Crear un socket UDP
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
@@ -34,7 +34,7 @@ try:
 
     # Actualizar archivo con la solicitud y la respuesta
     with open("registro.txt", "a") as file:
-        file.write(f"Fecha y hora: {date}, IP_Cliente: {ip}, Solicitud: {message}, Respuesta: {response}\n")
+        file.write(f"Fecha y hora: {date}, IP_Cliente: {ip}, Puerto: {server_port}, Solicitud: {message}, Respuesta: {response}\n")
 
     print(f"Redirigiendo a {response}")
     
