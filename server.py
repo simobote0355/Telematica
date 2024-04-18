@@ -10,7 +10,7 @@ def leer_txt(nombre_archivo):
     return tabla
 
 # Dirección IP y puerto del servidor
-server_ip = '10.161.62.254'
+server_ip = '54.226.235.58'
 server_port = 4455
 
 # Nombre del archivo que contiene la tabla de traducción
